@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I recently completed my PhD in Political Science at the Australian National University, specializing in political behaviour. 
+Welcome! I recently completed my PhD in Political Science at the Australian National University, specialising in political behaviour. 
 
 My research focuses on using survey experiments and meta-analytic methods to understand why voters in democracies sometimes support or tolerate illiberal and undemocratic politicians, how they might be persuaded to vote pro-democratically, and which democracies are most at risk of democratic decline. I investigate how providing voters with information about politicians' undemocratic positions affects their electoral choices, with particular attention to identifying effective strategies for strengthening democratic resilience. To read more about my work on voter tolerance for undemocratic political behaviour you can access my [PsyArXiv preprint](https://psyarxiv.com/x4bw3/) "When are Democracies at Risk of Democratic Decline? A Meta-Analysis of the Experimental Literature and a Conceptual Replication in the Philippines". An online seminar hosted by the University of Sydney's Southeast Asia Centre, where I discuss the Philippines experimental results and implications for their democracy stability, can be found on [Youtube](https://www.youtube.com/watch?v=oUY7NpT4Zt0).
 
