@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bermond Scoggins"
 title_separator          : "-"
 name                     : &name "Bermond Scoggins"
-description              : &description "Political Science PhD - Democratic Resilience and Metascience"
+description              : &description "personal description"
 url                      : https://bersco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Bermond Scoggins"
   avatar           : "bermond_scoggins_cropped.png"
-  bio              : "PhD in Political Science at the Australian National University"
-  location         :
+  bio              : "PhD in political science at the Australian National University's School of Politics and International Relations."
+  location         : 
   employer         :
-  pubmed           :
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=C1AHB2YAAAAJ&hl=en&oi=ao"
   email            : "u5859095@anu.edu.au"
   researchgate     :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "http://orcid.org/0000-0002-2152-3412"
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "BermondScoggins"
   vine             :
   weibo            :
   xing             :
@@ -174,13 +174,33 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -188,6 +208,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -197,6 +226,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
@@ -227,13 +273,22 @@ whitelist:
   - jemoji
 
 
-# Archives - Disabled for simplified site
-# category_archive:
-#   type: liquid
-#   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
