@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bermond Scoggins"
 title_separator          : "-"
 name                     : &name "Bermond Scoggins"
-description              : &description "personal description"
+description              : &description "Political Science PhD - Democratic Resilience and Metascience"
 url                      : https://bersco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Bermond Scoggins"
   avatar           : "bermond_scoggins_cropped.png"
-  bio              : "PhD in political science at the Australian National University's School of Politics and International Relations."
-  location         : 
+  bio              : "PhD in Political Science at the Australian National University"
+  location         :
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=C1AHB2YAAAAJ&hl=en&oi=ao"
   email            : "u5859095@anu.edu.au"
   researchgate     :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-2152-3412"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "BermondScoggins"
+  twitter          :
   vine             :
   weibo            :
   xing             :
