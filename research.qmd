@@ -121,16 +121,6 @@ Evaluates behavioural interventions targeting Kazakhstani parents encouraging ch
 
 ::: {.pub-entry}
 ::: {.pub-title}
-Healthcare at the Beginning of Life and Child Survival: Evidence from a Cash Transfer Experiment in Nigeria
-:::
-::: {.pub-authors}
-**Scoggins, Bermond**
-:::
-A replication and reanalysis written for the [Robustness and Replicability in Economics (R2E)](https://www.rwi-essen.de/en/projects/detail/robustness-and-replicability-in-economics-r2e-277) project undertaken by RWI Essen and funded by Open Philanthropy.
-:::
-
-::: {.pub-entry}
-::: {.pub-title}
 Estimating Changes in Authoritarian Legitimacy During Economic Downturns: Conjoint Experimental Evidence from Kazakhstan
 :::
 ::: {.pub-authors}
