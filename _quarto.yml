@@ -24,6 +24,8 @@ website:
       #   href: https://github.com/yourusername
       - icon: linkedin
         href: https://linkedin.com/in/bermondscoggins
+    google-analytics:
+      tracking-id: "G-E7X1GDRB25"
 
   page-footer:
     center: "© 2026 Bermond Scoggins. Built with [Quarto](https://quarto.org)."
