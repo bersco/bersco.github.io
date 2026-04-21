@@ -7,8 +7,6 @@ toc: false
 
 # Statistical Consulting
 
-I provide statistical consulting services to academic researchers, policy organisations, and international institutions. My work spans research design, data analysis, and methodological review.
-
 ## Selected Projects
 
 ::: {.project-entry}
