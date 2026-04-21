@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Bermond Scoggins"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: consulting.qmd
+        text: Consulting
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:bermond.scoggins@anu.edu.au
+      # - icon: github
+      #   href: https://github.com/yourusername
+      - icon: linkedin
+        href: https://linkedin.com/in/bermondscoggins
+
+  page-footer:
+    center: "© 2026 Bermond Scoggins. Built with [Quarto](https://quarto.org)."
+
+  search: false
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    fontsize: "1.05rem"
+    linestretch: 1.6
+    mainfont: "'Source Serif 4', 'Georgia', serif"

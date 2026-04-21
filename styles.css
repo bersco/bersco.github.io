@@ -1,0 +1,208 @@
+/* ── Landing hero section ── */
+.hero-section {
+  max-width: 720px;
+  margin: 3rem auto 2rem;
+  padding: 0 1.5rem;
+}
+
+.hero-section h1 {
+  font-family: "Source Sans 3", "Helvetica Neue", sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.3rem;
+  color: #1a1a1a;
+}
+
+.hero-section .subtitle {
+  font-size: 1.05rem;
+  color: #555;
+  margin-bottom: 1.8rem;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.hero-section .bio {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: #333;
+}
+
+.hero-section .bio a {
+  color: #1a5276;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ── Profile photo ── */
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+  margin: 0 0 1.5rem 2rem;
+  border: 2px solid #e8e8e8;
+}
+
+/* ── Content pages ── */
+.content-page {
+  max-width: 720px;
+  margin: 2.5rem auto;
+  padding: 0 1.5rem;
+}
+
+.content-page h1 {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #1a5276;
+  color: #1a1a1a;
+}
+
+.content-page h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  color: #1a1a1a;
+}
+
+/* ── Publication entries ── */
+.pub-entry {
+  margin-bottom: 1.6rem;
+  padding-left: 0.8rem;
+  border-left: 3px solid #d4e2ed;
+}
+
+.pub-entry .pub-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1a1a1a;
+  margin-bottom: 0.2rem;
+}
+
+.pub-entry .pub-authors {
+  font-size: 0.92rem;
+  color: #555;
+}
+
+.pub-entry .pub-venue {
+  font-size: 0.88rem;
+  color: #333;
+  font-style: italic;
+}
+
+.pub-entry .pub-links a {
+  font-size: 0.85rem;
+  margin-right: 0.8rem;
+  color: #1a5276;
+  text-decoration: none;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.pub-entry .pub-links a:hover {
+  text-decoration: underline;
+}
+
+/* ── Consulting project cards ── */
+.project-entry {
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.project-entry:last-child {
+  border-bottom: none;
+}
+
+.project-entry .project-client {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #1a5276;
+  margin-bottom: 0.15rem;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.project-entry .project-title {
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: #1a1a1a;
+  margin-bottom: 0.3rem;
+}
+
+.project-entry .project-desc {
+  font-size: 0.95rem;
+  color: #444;
+  line-height: 1.65;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .profile-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1.5rem;
+  }
+
+  .hero-section {
+    margin-top: 2rem;
+  }
+}
+
+/* ── Suppress Quarto default title block ── */
+.quarto-title-block {
+  display: none;
+}
+
+/* ── Compact skills grid ── */
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.8rem 2rem;
+  font-size: 0.93rem;
+  line-height: 1.55;
+  margin-top: 0.5rem;
+}
+
+.skills-grid p {
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Compact education entries ── */
+.edu-entry {
+  margin-bottom: 0.4rem;
+  font-size: 0.95rem;
+}
+
+.edu-entry p {
+  margin: 0;
+}
+
+/* ── Teaching blocks grouped by university ── */
+.teaching-block {
+  margin-bottom: 1.5rem;
+}
+
+.teaching-block h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+  color: #1a5276;
+}
+
+.teaching-block p {
+  margin: 0 0 0.35rem;
+  font-size: 0.93rem;
+  line-height: 1.55;
+}
+
+/* ── Google Fonts import ── */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:wght@400;500;600&display=swap');

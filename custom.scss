@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// Typography
+$font-family-sans-serif: "Source Sans 3", "Helvetica Neue", Helvetica, sans-serif;
+$font-family-serif: "Source Serif 4", Georgia, serif;
+$headings-font-family: "Source Sans 3", "Helvetica Neue", Helvetica, sans-serif;
+$headings-font-weight: 600;
+
+// Colors — muted, scholarly palette
+$body-color: #2c2c2c;
+$link-color: #1a5276;
+$link-hover-color: #0e3a54;
+
+// Navbar
+$navbar-bg: #ffffff;
+$navbar-fg: #2c2c2c;
+
+/*-- scss:rules --*/
+
+// Clean navbar
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+  font-family: $font-family-sans-serif;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+// Page footer
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.82rem;
+  color: #777;
+}

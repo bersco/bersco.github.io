@@ -1,0 +1,102 @@
+---
+title: ""
+toc: false
+---
+
+::: {.content-page}
+
+# Curriculum Vitae
+
+[Download full academic CV (PDF)](/files/scoggins-b-academic-cv-2026.pdf){.btn .btn-outline-primary}
+
+## Education
+
+::: {.edu-entry}
+**PhD, Political Science** · School of Politics and International Relations, Australian National University · 2025
+:::
+
+::: {.edu-entry}
+**BA (Honours), Political Science and International Relations** · Australian National University · 2018
+:::
+
+## Positions
+
+::: {.project-entry}
+::: {.project-client}
+Australian National University, Canberra · 2026 –
+:::
+::: {.project-title}
+Visiting Fellow
+:::
+::: {.project-desc}
+School of Politics and International Relations 
+:::
+:::
+
+::: {.project-entry}
+::: {.project-client}
+Nazarbayev University, Astana, Kazakhstan · 2022 – 2025
+:::
+::: {.project-title}
+Visiting Researcher and Instructor
+:::
+::: {.project-desc}
+Designed and delivered undergraduate courses in causal inference, research design, and statistical methods. Led survey-based research projects on public policy preferences. Managed a multi-institutional survey experiment evaluating behavioural interventions for childhood vaccination uptake, collaborating with researchers at the University of Oxford and the Technical University of Munich.
+:::
+:::
+
+::: {.project-entry}
+::: {.project-client}
+Australian National University, Canberra · 2019 – 2025
+:::
+::: {.project-title}
+Doctoral Researcher and Teaching Assistant
+:::
+::: {.project-desc}
+Designed and conducted original quantitative research using experimental methods and meta-analysis. Published peer-reviewed research in *Royal Society Open Science*, *Nature*, and *Nature Human Behaviour*. Facilitated weekly tutorial sessions in quantitative methods and research design.
+:::
+:::
+
+## Skills
+
+::: {.skills-grid}
+
+**Quantitative Analysis:** Experimental design, causal inference, econometrics, survey methodology, policy and impact evaluation
+
+**Programming & Data Tools:** R, Python, SQL, Stata, Excel, Git
+
+**Structured Problem-Solving:** Evidence synthesis, meta-analysis, analytical framework development for complex policy questions
+
+**Presentation & Reporting:** PowerPoint, LaTeX, Quarto, publication-quality data visualisation
+
+**Communication:** Academic publishing, technical writing, teaching and facilitation, stakeholder briefings
+
+**Languages:** Cebuano (second-most-spoken Philippine language)
+
+:::
+
+## Teaching
+
+::: {.teaching-block}
+### Nazarbayev University
+
+**Lecturer/Instructor** — Introduction to Research Design and Statistical Inference. Department of Sociology and Anthropology. 2024.
+
+**Lecturer/Instructor** — Introductory Causal Inference (covering DiD, RDD, IV). Department of Political Science and International Relations. 2023.
+
+**Guest Lecturer** — Survey and Field Experiments. Anti-corruption interventions. 2022.
+:::
+
+::: {.teaching-block}
+### KIMEP University
+
+**Lecturer** — Research Design and Statistical Methods Summer School. 2-week course in R. June 2024.
+:::
+
+::: {.teaching-block}
+### Australian National University
+
+**Guest Lecturer** — Co-designed syllabus for quantitative methods (POLS2044). Lectures on metascience (POLS8044, POLS2044), Hungarian illiberalism (POLS2012), and measurement validity (POLS8058). 2020–2021.
+
+**Teaching Assistant/Tutor** — Quantitative methods (POLS2044), European integration (EURO2012), research design (POLS1009), international organisations (POLS2133). Nominated for 2021 CASS Award for Excellence in Tutoring. 2019–2021.
+:::

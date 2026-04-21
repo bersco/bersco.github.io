@@ -1,0 +1,62 @@
+---
+title: ""
+toc: false
+---
+
+::: {.content-page}
+
+# Statistical Consulting
+
+I provide statistical consulting services to academic researchers, policy organisations, and international institutions. My work spans research design, data analysis, and methodological review.
+
+## Selected Projects
+
+::: {.project-entry}
+::: {.project-client}
+RWI – Leibniz Institute · Open Philanthropy (Apr 2024--Nov 2025)
+:::
+::: {.project-title}
+Maternal Health Outcomes Under a Conditional Cash Transfer Program
+:::
+::: {.project-desc}
+Evaluated the robustness of a randomised controlled trial assessing a cash transfer intervention on maternal health, delivering analytical findings to inform philanthropic investment decisions.
+:::
+:::
+
+::: {.project-entry}
+::: {.project-client}
+Monash University (Jan 2024--May 2025)
+:::
+::: {.project-title}
+Trade and Financial Openness Panel Data Analysis
+:::
+::: {.project-desc}
+Conducted panel data econometric analysis of country-level trade and financial openness indicators for a project funded by the Office of National Intelligence.
+:::
+:::
+
+::: {.project-entry}
+::: {.project-client}
+KIMEP University · Presidential Administration of Kazakhstan (2022)
+:::
+::: {.project-title}
+Conjoint Experiment for Public Attitudes to Foreign Policy and Political Reform
+:::
+::: {.project-desc}
+Designed and analysed a conjoint survey experiment to inform a policy reform report on economic, political, and educational priorities, prepared for the Presidential Administration of the Republic of Kazakhstan.
+:::
+:::
+
+::: {.project-entry}
+::: {.project-client}
+Center for Open Science (2022)
+:::
+::: {.project-title}
+Robustness and Replicability Research
+:::
+::: {.project-desc}
+Contributed quantitative analysis to a large-scale international collaboration evaluating analytical robustness across the social and behavioural sciences co-authored in [*Nature*](https://www.nature.com/articles/s41586-025-09844-9).
+:::
+:::
+
+:::

@@ -1,0 +1,142 @@
+---
+title: ""
+toc: false
+---
+
+::: {.content-page}
+
+# Publications
+
+## Journal Articles
+
+::: {.pub-entry}
+::: {.pub-title}
+Investigating the Analytical Robustness of the Social and Behavioural Sciences
+:::
+::: {.pub-authors}
+Aczel, Balazs, Barnabas Szaszi, Harry T. Clelland... **Bermond Scoggins**... Brian A. Nosek
+:::
+::: {.pub-venue}
+Nature, 2026
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41586-025-09844-9)
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Measuring Transparency in the Social Sciences: Political Science and International Relations
+:::
+::: {.pub-authors}
+**Scoggins, Bermond** and Matthew P. Robertson
+:::
+::: {.pub-venue}
+Royal Society Open Science, 2024
+:::
+::: {.pub-links}
+[Paper](https://doi.org/10.1098/rsos.240313)
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Trust in Scientists and Their Role in Society across 68 Countries
+:::
+::: {.pub-authors}
+Cologna, Viktoria, Niels Mede, Sebastian Berger... **Bermond Scoggins**... Rolf A. Zwaan
+:::
+::: {.pub-venue}
+Nature Human Behaviour, 2024
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41562-024-02090-5)
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Perceptions of Science, Science Communication, and Climate Change Attitudes in 67 Countries: The TISP Dataset
+:::
+::: {.pub-authors}
+Mede, Niels, Viktoria Cologna, Sebastian Berger... **Bermond Scoggins**... Rolf A. Zwaan
+:::
+::: {.pub-venue}
+Scientific Data, 2024
+:::
+::: {.pub-links}
+[Paper](https://www.nature.com/articles/s41597-024-04100-7)
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Identity Politics or Economics? Explaining Voter Support for Hungary's Illiberal FIDESZ
+:::
+::: {.pub-authors}
+**Scoggins, Bermond**
+:::
+::: {.pub-venue}
+East European Politics and Societies, 2020
+:::
+::: {.pub-links}
+[Paper](https://journals.sagepub.com/doi/abs/10.1177/0888325420954535)
+:::
+:::
+
+## Working Papers
+
+::: {.pub-entry}
+::: {.pub-title}
+Committed but Constrained: Democratic Values and Partisan Costs across Fourteen Democracies
+:::
+::: {.pub-authors}
+**Scoggins, Bermond** and [Marc S. Jacob](https://keough.nd.edu/about/faculty-staff-directory/marc-jacob/)
+:::
+Large meta-analysis of multiple conjoint experiments on voters' democratic preferences with 30,000 respondents across 12 countries.
+:::
+
+<!-- ::: {.pub-entry} -->
+<!-- ::: {.pub-title} -->
+<!-- Supporting Democratic Values While Tolerating Undemocratic Policies: Reconciling Survey and Conjoint Experiment Data from the Philippines -->
+<!-- ::: -->
+<!-- ::: {.pub-authors} -->
+<!-- **Scoggins, Bermond** -->
+<!-- ::: -->
+<!-- Explains how Filipino voters can strongly support democracy in Asia Barometer data but fail to punish undemocratic in-group candidates in a pre-2022 election conjoint experiment. -->
+<!-- ::: -->
+
+::: {.pub-entry}
+::: {.pub-title}
+When Appeals to Vaccinate Backfire: A Survey Experiment on Prestige Bias and Social Conformity in Kazakhstan
+:::
+::: {.pub-authors}
+[Karpa, David](https://dkarpa.github.io), [Dinara Pisareva](https://research.nu.edu.kz/en/persons/dinara-pisareva/), **Bermond Scoggins**, Nikita Durnev, and [Michael Rochlitz](https://www.rees.ox.ac.uk/people/professor-michael-rochlitz)
+:::
+::: {.pub-venue}
+Minor revisions at Social Science & Medicine — Population Health
+:::
+Evaluates behavioural interventions targeting Kazakhstani parents encouraging childhood vaccination against measles, mumps, and rubella (MMR).
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Healthcare at the Beginning of Life and Child Survival: Evidence from a Cash Transfer Experiment in Nigeria
+:::
+::: {.pub-authors}
+**Scoggins, Bermond**
+:::
+A replication and reanalysis written for the [Robustness and Replicability in Economics (R2E)](https://www.rwi-essen.de/en/projects/detail/robustness-and-replicability-in-economics-r2e-277) project undertaken by RWI Essen and funded by Open Philanthropy.
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Estimating Changes in Authoritarian Legitimacy During Economic Downturns: Conjoint Experimental Evidence from Kazakhstan
+:::
+::: {.pub-authors}
+**Scoggins, Bermond** and [Dinara Pisareva](https://research.nu.edu.kz/en/persons/dinara-pisareva/)
+:::
+Conjoint experiment examining support for democratic and foreign policy reforms during high inflation periods.
+:::
+
+:::
