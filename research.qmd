@@ -108,15 +108,27 @@ Large meta-analysis of multiple conjoint experiments on voters' democratic prefe
 
 ::: {.pub-entry}
 ::: {.pub-title}
-When Appeals to Vaccinate Backfire: A Survey Experiment on Prestige Bias and Social Conformity in Kazakhstan
+Authority endorsements backfire and social norms fail to increase vaccination intent in post-COVID Kazakhstan
 :::
 ::: {.pub-authors}
 [Karpa, David](https://dkarpa.github.io), [Dinara Pisareva](https://research.nu.edu.kz/en/persons/dinara-pisareva/), **Bermond Scoggins**, Nikita Durnev, and [Michael Rochlitz](https://www.rees.ox.ac.uk/people/professor-michael-rochlitz)
 :::
 ::: {.pub-venue}
-Minor revisions at Social Science & Medicine — Population Health
+SSM — Population Health, 2026
 :::
-Evaluates behavioural interventions targeting Kazakhstani parents encouraging childhood vaccination against measles, mumps, and rubella (MMR).
+::: {.pub-links}
+[Paper](https://www.sciencedirect.com/science/article/pii/S2352827326000376
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
+Healthcare at the Beginning of Life and Child Survival: Evidence from a Cash Transfer Experiment in Nigeria
+:::
+::: {.pub-authors}
+**Scoggins, Bermond**
+:::
+A replication and reanalysis written for the [Robustness and Replicability in Economics (R2E)](https://www.rwi-essen.de/en/projects/detail/robustness-and-replicability-in-economics-r2e-277) project undertaken by RWI Essen and funded by Open Philanthropy.
 :::
 
 ::: {.pub-entry}
