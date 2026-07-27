@@ -26,6 +26,21 @@ Nature, 2026
 
 ::: {.pub-entry}
 ::: {.pub-title}
+Authority endorsements backfire and social norms fail to increase vaccination intent in post-COVID Kazakhstan
+:::
+::: {.pub-authors}
+[Karpa, David](https://dkarpa.github.io), [Dinara Pisareva](https://research.nu.edu.kz/en/persons/dinara-pisareva/), **Bermond Scoggins**, Nikita Durnev, and [Michael Rochlitz](https://www.rees.ox.ac.uk/people/professor-michael-rochlitz)
+:::
+::: {.pub-venue}
+SSM — Population Health, 2026
+:::
+::: {.pub-links}
+[Paper](https://www.sciencedirect.com/science/article/pii/S2352827326000376)
+:::
+:::
+
+::: {.pub-entry}
+::: {.pub-title}
 Measuring Transparency in the Social Sciences: Political Science and International Relations
 :::
 ::: {.pub-authors}
@@ -88,12 +103,15 @@ East European Politics and Societies, 2020
 
 ::: {.pub-entry}
 ::: {.pub-title}
-Committed but Constrained: Democratic Values and Partisan Costs across Fourteen Democracies
+Democratic Support and the Partisan Cost of Democratic Accountability: Evidence from Thirteen Democracies
 :::
 ::: {.pub-authors}
 **Scoggins, Bermond** and [Marc S. Jacob](https://keough.nd.edu/about/faculty-staff-directory/marc-jacob/)
 :::
-Large meta-analysis of multiple conjoint experiments on voters' democratic preferences with 30,000 respondents across 12 countries.
+Large meta-analysis of multiple conjoint experiments on voters' democratic preferences with 30,000 respondents across 12 countries. 
+
+Presented to audiences at the Australian National University, the Policies, Politics, and Democracy: Canada and Germany in
+Perspective Workshop at the University of Toronto, and the 2026 MPSA Affective Polarization and Depolarization Mini-Conference.
 :::
 
 <!-- ::: {.pub-entry} -->
@@ -105,21 +123,6 @@ Large meta-analysis of multiple conjoint experiments on voters' democratic prefe
 <!-- ::: -->
 <!-- Explains how Filipino voters can strongly support democracy in Asia Barometer data but fail to punish undemocratic in-group candidates in a pre-2022 election conjoint experiment. -->
 <!-- ::: -->
-
-::: {.pub-entry}
-::: {.pub-title}
-Authority endorsements backfire and social norms fail to increase vaccination intent in post-COVID Kazakhstan
-:::
-::: {.pub-authors}
-[Karpa, David](https://dkarpa.github.io), [Dinara Pisareva](https://research.nu.edu.kz/en/persons/dinara-pisareva/), **Bermond Scoggins**, Nikita Durnev, and [Michael Rochlitz](https://www.rees.ox.ac.uk/people/professor-michael-rochlitz)
-:::
-::: {.pub-venue}
-SSM — Population Health, 2026
-:::
-::: {.pub-links}
-[Paper](https://www.sciencedirect.com/science/article/pii/S2352827326000376
-:::
-:::
 
 ::: {.pub-entry}
 ::: {.pub-title}
